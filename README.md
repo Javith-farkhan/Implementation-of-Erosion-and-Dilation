@@ -103,15 +103,18 @@ plt.axis('off')
 
 ### Display the input text Image:
 
-![out1](https://user-images.githubusercontent.com/93427534/235469188-6d26b0dd-c219-4646-86d7-050dbe57ca66.png)
+![Di10 1](https://github.com/Javith-farkhan/Implementation-of-Erosion-and-Dilation/assets/94296805/648cfcec-9cd1-49cb-be0d-77ee716518a8)
+
 
 ### Display the Eroded text Image:
 
-![out2](https://user-images.githubusercontent.com/93427534/235469199-efcbf874-9f14-4eb3-8310-b2d4ecf9a034.png)
+![Di10 2](https://github.com/Javith-farkhan/Implementation-of-Erosion-and-Dilation/assets/94296805/493909be-43c3-45dc-940e-d1e0b5203933)
+
 
 ### Display the Dilated text Image:
 
-![out3](https://user-images.githubusercontent.com/93427534/235469212-7231cf5d-20d9-4d9a-af7a-90bfc146bf39.png)
+![Di10 3](https://github.com/Javith-farkhan/Implementation-of-Erosion-and-Dilation/assets/94296805/6d095d1a-e8b6-48ce-b8d4-49e6d562e09a)
+
 
 ## Result:
 
